@@ -93,16 +93,6 @@ This setup is ideal for:
 - Enterprise search engines with LLM reasoning
 
 ---
-
-## 📁 Folder Structure
-
-```
-├── embeddings/
-├── vector_store/
-├── prompts/
-├── rag_chain.ipynb    ← Main pipeline notebook
-```
-
 ---
 
 ## 🤝 Contact
